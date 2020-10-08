@@ -28,14 +28,10 @@ body {
     .lead {
         text-align: center;
     }
-    /* Main Heading Set Up */
+    
     .jumbotron {
         background-color: teal;
         height: 270px;
-    }
-
-    #header {
-        color: #FFF200;
     }
     
     .buttonRow {
@@ -46,12 +42,11 @@ body {
     .card {
         background-color: teal;
     }
-    /* JS and Quiz image formatting */
+    
     img {
         width: 450px;
         height: 253px;
     }
-    
     
     .col-4 {
         text-align: -webkit-center;
@@ -79,11 +74,11 @@ body {
     #highRow {
         padding: 10px;
     }
-    
+
     #theJavaScript {
         color: #FFF200;
     }
-
+    
     #theTottaly {
         color: #FFF200;
     }
@@ -92,6 +87,7 @@ body {
         font-size: 4.5rem;
         font-weight: 300;
         line-height: 1.2;
+        color: #FFF200;
     }
     
     #imageHigh {
@@ -129,4 +125,3 @@ body {
             float: right;
         }
     }
-    
