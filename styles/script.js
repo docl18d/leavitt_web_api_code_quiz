@@ -11,7 +11,7 @@ var questions = [{
     answer2: "Sheryl Sandberg",
     answer3: "Brendan Eich",
     answer4: "Black Rifle Coffee Company",
-    correct: "Brendan Eichh"
+    correct: "Brendan Eich"
   },{
     question: "Which one of these is a JavaScript package manager?",
     answer1: "Node.js",
